@@ -1,0 +1,18 @@
+/*
+@todo Get this menu working
+[
+  {
+    "caption" : "-",
+    "id"      : "gitlink-start-separator"
+  },
+  {
+    "caption"  : "GitLink",
+    "id"       : "gitlink-options",
+    "command" : "linktogit",
+    "args"    : {
+      "line" : false,
+      "web"   : true
+    }
+  }
+]
+*/

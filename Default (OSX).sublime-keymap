@@ -1,0 +1,10 @@
+[
+  {
+    "keys": ["super+shift+o"],
+    "command": "linktogit",
+    "args" : {
+      "line" : true,
+      "web"  : true
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "caption" : "-",
+    "id"      : "gitlink-start-separator"
+  },
+  {
+    "caption"  : "Link to Git",
+    "id"       : "linktogit-options",
+    "command" : "linktogit",
+    "args"    : {
+      "line"  : true,
+      "web"   : true
+    }
+  }
+]
